@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/7ffd8854-b21b-4a8d-8662-fda2eda3993b)# BANHAO: เกมแนว Farming Simulator
+# BANHAO: เกมแนว Farming Simulator
 
 **เกม BANHAO** เป็นเกมแนว *Farming Simulator* ที่มีบรรยากาศเป็นชนบทภาคอีสาน เป้าหมายหลักของผู้เล่นคือการวางแผนเก็บเงินให้ได้ตามเป้าหมายก่อนวันที่ 31 เพื่อจ่ายหนี้ **30,000 บาท** หากสามารถทำได้ ผู้เล่นจะชนะเกม แต่หากไม่สามารถทำได้ เกมจะจบลง
 
