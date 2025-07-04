@@ -29,6 +29,7 @@
 2. แตกไฟล์และติดตั้ง
 3. เปิดเกมและสนุกกับการเล่น!
 
-![image](https://github.com/user-attachments/assets/25af321c-9a12-4067-8b4f-f5bd4fddccda)
+![image](https://github.com/user-attachments/assets/13b4b33d-23b5-4853-8720-866c2e0949cb)
+
 
 
